@@ -14,3 +14,5 @@ To run this, you would need the tensorflow installed, and some sevral other pyth
 Download the dataset, and change the directory for this to run properly
 
 lung.py --- Mask.py ---U-net.py
+
+Moreover, for guys who want to futher explore Kaggle Data Science Super Bowl, we upload the code of the 2nd position of this competition(we already re-implement it), it's a great resource for us who are interested in machine learning to explore and lear. Please follow the instruction in README file inside 3D CONV folder.
