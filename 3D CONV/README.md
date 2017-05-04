@@ -1,5 +1,6 @@
 LUNG CANCER DETECTION TEAM
-This is the RE-IMPLEMENTATION code for the 2nd place solution to the National Data Science Bowl 2017 hosted by Kaggle.com. For documenation about the approach go to: http://juliandewit.github.io/kaggle-ndsb2017/ 
+This is the RE-IMPLEMENTATION code for the 2nd place solution to the National Data Science Bowl 2017 hosted by Kaggle.com. 
+For documenation about the approach go to: http://juliandewit.github.io/kaggle-ndsb2017/ 
 The work of my teammate Daniel Hammack can be found here: https://github.com/dhammack/DSB2017
 Noted: we’re just Re-implementING their code and we learned a lot. If you’re interested, please re-do it!
 Dependencies & data
